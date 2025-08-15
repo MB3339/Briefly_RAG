@@ -14,7 +14,5 @@ Includes a chart-aware path for figure-heavy PDFs.
 
 > Evaluation (Hit@k / MRR) is planned as a future addition.
 
-## Example
-![summary](assets/amplify_summary.png)
 
 **Note:** Public, non-sensitive PDFs only. Do not commit API keys or PDFs.
