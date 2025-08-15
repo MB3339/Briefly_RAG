@@ -1,0 +1,47 @@
+# Core
+langchain
+openai
+groq
+langchain-groq
+google-generativeai
+tiktoken
+pymupdf
+matplotlib
+# Vector stores (choose one or more depending on use)
+faiss-cpu
+chromadb
+qdrant-client
+
+# Embeddings
+sentence-transformers
+transformers
+torch
+scikit-learn
+
+# Multimodal models (image + text)
+git+https://github.com/openai/CLIP.git
+Pillow
+opencv-python
+
+# Optional: Audio / Speech-to-text
+whisper
+
+# For LangChain tools / agents / tracing
+langchainhub
+langchain-community
+
+# Data processing
+pandas
+numpy
+
+# Dev + Testing (optional)
+jupyter
+ipython
+rich
+
+# UI (optional: Gradio / Streamlit)
+gradio
+streamlit
+
+# Environment
+python-dotenv
